@@ -25,7 +25,7 @@
 
     - Cut a hole allowing to pass through the electric wires from the battery holders to the tracer.
   
-    ![Wires hole](material/foam-5.jpeg)
+    ![Wires hole](material/foam-tracer_hole.jpeg)
 
 3. In the 6 cm thick piece, make room for the batteries and holders by removing 4 cm height of foam with the appropriate shape.
 
