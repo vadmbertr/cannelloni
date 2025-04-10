@@ -3,9 +3,13 @@
 ## Batteries and holders
 
 1. Insert the batteries inside the two holders,
-2. Hold them back to back using a hose clamp (or tape).
+2. To prevent batteries from moving vertically inside the holders, apply some hot glue one the spring side of each battery,
 
-![Battery holder](material/battery-holders.jpeg)
+    ![Batteries glue](material/battery-holder-glue.jpeg)
+
+3. Hold them back to back using a hose clamp (or tape).
+
+    ![Battery holder](material/battery-holders.jpeg)
 
 ## Foam for wedging
 
@@ -29,7 +33,7 @@
 
 3. In the 6 cm thick piece, make room for the batteries and holders by removing 4 cm height of foam with the appropriate shape.
 
-![Battery holder](material/foam-holder_fit.jpeg)
+    ![Battery holder](material/foam-holder_fit.jpeg)
 
 ## Wiring
 
@@ -43,10 +47,16 @@
 
 3. Solder the remaining positive and negative wires to the positive and negative pins of the GPS tracer electronic card.
 
+    ![Card soldering](material/wiring-solder-card.jpeg)
+
 ## Filling
 
 1. Pour 460 g of gravel at the bottom for ~85% immersion,
 2. On top of it, stuff the batteries and holders in its foam,
+
+    ![Filling battery](material/filling-battery.jpeg)
+
 3. Lastly, stuff the GPS tracer in its foam, the tracer should be right under the plastic lid with the logo facing the sky.
 
-
+    ![Filling tracer](material/filling-tracer.jpeg)
+    ![Filling lid](material/filling-lid.jpeg)
